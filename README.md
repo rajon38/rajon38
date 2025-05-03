@@ -147,9 +147,13 @@
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=rajon38&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rajon38&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajon38&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajon38&theme=dark&border_radius=10" alt="GitHub Contribution"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajon38&theme=dark&border_radius=10"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajon38&theme=dark&border_radius=10"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajon38&theme=dark&border_radius=10"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajon38&theme=dark&utcOffset=8&border_radius=10"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajon38&theme=dark&border_radius=10" alt="GitHub Streak"/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rajon38&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -168,6 +172,6 @@
 
 <div align="center">
   <h2>⚡ Random Dev Joke</h2>
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes Card" />
 </div>
 
