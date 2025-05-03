@@ -147,7 +147,7 @@
 
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
-  # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=rajon38&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rajon38&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajon38&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -158,6 +158,7 @@
 
 
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=rajon38&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
