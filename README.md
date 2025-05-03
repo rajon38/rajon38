@@ -44,9 +44,9 @@
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-svgrepo-com.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-com.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![LINUX](https://img.shields.io/badge/LINUX-a23ff.svg?style=for-the-badge&logo=linux&logoColor=white)
-![DOCKER](https://img.shields.io/badge/docker-svgrepo-com.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DOCKER](https://img.shields.io/badge/docker-com.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </p>
 
@@ -164,8 +164,6 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=rajon38&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=rajon38&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ------------------------------------------------------------------------------
