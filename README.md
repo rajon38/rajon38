@@ -6,7 +6,7 @@
   </a>
 </div>
 <!-- Animated Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20MD%20Rashedul's%20Universe&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Backend%20Developer%20|%20MERN%20Specialist%20|%20DevOps%20Engineer%20|%20Cloud&descAlignY=55&descAlign=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20Rashedul's%20Universe&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Backend%20Developer%20|%20MERN%20Specialist%20|%20DevOps%20Engineer%20|%20Cloud&descAlignY=55&descAlign=62" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Rashedul Islam</h1>
 <p align="center">
